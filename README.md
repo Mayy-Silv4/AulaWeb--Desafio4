@@ -20,15 +20,14 @@ Este projeto consiste no desenvolvimento de um crônometro baseado na técnica P
 - [X] Botão resetar.
 - [X] Modo claro/escuro.
 
-## Como usar
+## COMO USAR
 1. Clone o repositório
 2. Abra o `index.html` no navegador.
 
 ## CAPTURA DE TELA
 ![Captura de tela 2025-05-19 144821](https://github.com/user-attachments/assets/7d423ad2-c873-4886-9377-f58110d301d8)
 
-## Melhorias futuras
-
+## MELHORIAS FUTURAS
 - [ ] Sons ao terminar o tempo.
 - [ ] Permitir configurar o tempo de estudo e pausa.
 - [ ] Melhorar o design.
